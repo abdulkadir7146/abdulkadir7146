@@ -1,4 +1,8 @@
 ## Hi there 👋
+```markdown
+Hi, I'm Abdul Kadir 👋  
+Social Change Communication graduate passionate about data verification, research, and using digital tools for social impact. Experienced in election verification processes with a strong focus on accuracy and accountability.
+```
 
 <!--
 **abdulkadir7146/abdulkadir7146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
